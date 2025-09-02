@@ -1,0 +1,3 @@
+[submodule "ProtoMotions"]
+	path = third-party/ProtoMotion_for_InterPose
+	url = git@github.com:Mael-zys/ProtoMotion_for_InterPose.git
