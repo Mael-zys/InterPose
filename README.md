@@ -2,7 +2,7 @@
 This is the official implementation for paper: "InterPose: Learning to Generate Human-Object Interactions from Large-Scale Web Videos".
 
 
-[[Project Page]](https://mael-zys.github.io/InterPose/) [[InterPose data]](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/yangsong_zhang_mbzuai_ac_ae/EfZbl_t1SNlDsKwIv9PAf64BB5HFSVxRgHqbzoD9saLzQQ?e=EISCx6) [[Paper]](https://mael-zys.github.io/InterPose/)
+[[Project Page]](https://mael-zys.github.io/InterPose/) [[InterPose data]](https://mbzuaiac-my.sharepoint.com/:u:/g/personal/yangsong_zhang_mbzuai_ac_ae/EfZbl_t1SNlDsKwIv9PAf64BB5HFSVxRgHqbzoD9saLzQQ?e=EISCx6) [[Paper]](https://arxiv.org/abs/2509.00767)
 
 
 ![InterPose Teaser](data/teaser_final.jpg)
