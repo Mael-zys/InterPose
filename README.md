@@ -1,4 +1,4 @@
-# (3DV 2026) InterPose: Learning to Generate Human-Object Interactions from Large-Scale Web Videos (arXiv 2025)
+# (3DV 2026) InterPose: Learning to Generate Human-Object Interactions from Large-Scale Web Videos
 This is the official implementation for paper: "InterPose: Learning to Generate Human-Object Interactions from Large-Scale Web Videos".
 
 
