@@ -11,13 +11,17 @@ This is the official implementation for paper: "InterPose: Learning to Generate 
 ## TODO
 
 - [x] Release InterPose dataset
-- [ ] Data collection framework
+- [x] Data collection framework
 - [ ] Spatial control experiments (Training and evaluation)
   - [x] Physics-based model: MaskedMimic
   - [ ] Kinematics-based model: OmniControl
 - [x] Zero-shot human-object interaction experiments (Evaluation)
 - [x] Application: HOI-Agent (integrate LLM to enable zero-shot HOI generation in 3D scenes)
 
+
+## Data collection framework
+
+The automatic human motion data collection and annotation pipeline are released now in repo [InterPose-data-collection](https://github.com/Mael-zys/InterPose-data-collection).
 
 ## Environment Setup
 > Note: This code was developed with Python 3.8, CUDA 11.7 and PyTorch 2.0.0.
